@@ -86,7 +86,7 @@ vim +PlugInstall +qall
 
 Vim-bootstrap generator can accept URL params via request as example below.
 
-    curl 'http://vim-bootstrap.com/generate.vim' --data 'langs=javascript&langs=php&langs=html&langs=ruby&editor=vim' > ~/.vimrc
+    curl 'http://vim-bootstrap.com/generate.vim' --data 'langs=ruby&langs=perl&langs=c&langs=javascript&langs=php&langs=html&langs=python&editor=vim' > ~/.vimrc
 
 
 ### Updating to the latest version
